@@ -1,0 +1,453 @@
+body {
+    margin: 0 !important;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+input,
+button {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: white;
+
+
+}login
+
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.hidde {
+    display: none !important
+
+
+}
+
+.stc {
+    position: fixed;
+    top: 30;
+    left: 0;
+    width: 100%;
+    border-bottom: black 2px solid;
+    
+}
+.user-spellings{
+    border-radius: 5px;
+    border:  1px  grey solid ;
+   overflow-y: scroll;
+
+}
+
+.errors-Users{
+    overflow-y: scroll;
+
+
+}
+
+a:link {
+    color: rgb(255, 255, 255)
+}
+.scm-scroll {
+    scroll-behavior: smooth;
+
+    
+}
+
+.text-dec-none {
+    text-decoration: none;
+}
+
+.cutsor-pointer {
+    cursor: pointer;
+
+}
+
+.bg-color-soft-blu {
+    background-color: #2f6c88;
+    /*background-color: #0c99db;*/
+}
+.user-input{
+    background-color: #3fa0f0;   
+    border-radius: 5px;
+    padding: 6px;
+    padding-left: 7px;
+    color: black;
+
+}
+.bg-color-aquasoft{
+    background-color: #3fa0f0;
+
+}
+.bg-color-aquasoft-BUTTON{
+    background-color: #3fa0f0;
+    transition: all .8s ease-in-out;
+
+
+}
+.bg-color-aquasoft-BUTTON:hover{
+    background-color: #f7da39;
+
+
+}
+
+
+.bg-black {
+    background-color: black;
+
+}
+
+
+.bg-color-vsoft-blu {
+    background-color: #cde6f3;
+
+}
+
+.bg-color-vsoftwhite {
+    background-color: aliceblue;
+}
+
+.bg-color-produc-desc {
+    background-color: #4e6b7a;
+    /*background-color: #0c99db;*/
+}
+
+.color-blue-white {
+    color: rgb(255, 255, 255)
+}
+
+.color-yelow-semi {
+    color: #f7da39;
+}
+
+.color-blur-vwhite {
+    color: #215770;
+
+}
+.color-white{
+    color: white;
+
+
+}
+.color-red {
+    color: red;
+
+}
+.l0-b0 {
+    bottom: 0;
+    right: 0;
+    padding: 5px;
+    
+}
+.r0-t-0{
+    right: 0;
+    top: 0;
+
+}
+
+.color-black {
+    color: black;
+}
+.shadow {
+    box-shadow: 10px 5px 5px black;
+
+}
+.xkurd {
+    height: 350px;
+    width: 350px;
+    
+}
+
+
+.br-20 {
+    border-radius: 10px;
+
+}
+
+.gallery {
+    width: 100%;
+    margin: 0 auto;
+    column-count: 3;
+    column-gap: 0;
+
+}
+
+.log-reg-pop {
+    padding: 7px;
+    border-radius: 10px;
+
+
+
+
+}
+
+.color-red-op-1
+{
+    color: red;
+    opacity: 1;
+
+
+}
+
+.w-30 {
+    width: 30px;
+    height: 30px;
+}
+.b-50-l-50 {
+    bottom: 70%;
+    left: 50%;
+}
+.bg-white {
+    background-color: rgb(255, 255, 255);
+}
+.bg-black {
+    background-color: rgb(211, 235, 255);
+
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-40 {
+    font-size: 40px;
+}
+
+.font-size-10 {
+    font-size: 10px;
+
+}
+
+.logo-pet {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+
+.h-27 {
+    height: 2.7rem;
+}
+
+.h-30 {
+    height: 2.5rem;
+}
+
+.max-h {
+    max-width: 100%;
+}
+
+.bottom-60 {
+    height: 60%;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.br-15 {
+    border-radius: 1.5rem;
+}
+
+.br-7 {
+    border-radius: 0.7rem;
+
+}
+
+.pl-30 {
+    padding-left: 3rem;
+}
+
+.pt-25 {
+    padding-top: 3rem;
+
+}
+
+.p-17 {
+    padding: 17px;
+
+}
+
+.position-abs{
+    position:absolute;
+}
+.t-0-r-0 {
+    top: 0;
+    right: 0;
+}
+
+.mr-30 {
+    margin-right: 3.5rem;
+}
+
+.mr-50 {
+    margin-right: 5rem;
+
+}
+
+.ml-30 {
+    margin-left: 3.5rem;
+}
+.mt-k0 {
+    margin-top: 4rem;
+
+}
+.mt-40{
+    margin-top: 4rem;
+    
+}
+.mb-100{
+    margin-bottom:30rem;
+
+}
+.mt-50{
+    margin-top: 10rem;
+
+}
+.ml-40 {
+    margin-left: 5rem;
+
+}
+
+.fl{
+    float: left;
+
+}
+
+.mt-60 {
+    margin-top: 6rem;
+}
+
+.mb-35 {
+    margin-bottom: 3.5rem;
+}
+
+
+
+.mr-21 {
+    margin-right: 80px;
+}
+
+.mt-30 {
+    margin-top: 3rem;
+}
+
+
+.mt-20 {
+    margin-top: 2rem;
+}
+
+.list-style-none {
+    list-style-type: none;
+}
+
+.t-al-c {
+    text-align: center;
+}
+
+.let-spec {
+    letter-spacing: 1px;
+}
+
+.display-none {
+    display: none;
+}
+
+/*Hovers and trans*/
+.change-yellow {
+    color: rgb(255, 255, 255);
+    transition: all .1s ease-in-out;
+}
+
+.change-yellow:hover {
+    color: #f7da39;
+}
+
+.product-IMG-main {
+    min-width: 250px;
+    min-height: 250px;
+    max-width: 350px;
+    max-height: 350px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.LoginRegisterdiv:hover {
+    background-color: #fce24f;
+}
+.MyaccLogOut{
+    background-color: #f7da39;
+    color: #215770;
+    transition: all .1s ease-in-out;
+
+}
+.MyaccLogOut:hover{
+    background-color: #fce24f;
+
+}
+.change-darg-blue {
+    background-color: #2f6a85;
+    transition: all .2s ease-in-out;
+}
+
+.change-darg-blue:hover {
+    background-color: #27586e;
+}
+
+.tests {
+    flex-flow: wrap
+}
+
+.tests hr {
+    width: 100%;
+}
+
+
+.font-size-25 {
+    font-size: 25px;
+}
+.font-size-13 {
+    font-size: 13px;
+
+}
+
+
+.border-bottom-2 {
+    border-bottom: white .5px solid;
+
+}
+.border-full-grey{
+    border: .5px grey solid;
+    padding: 10px;
+
+
+}
+
+.te {
+    background-color: white;
+    z-index: 1;
+
+}
+
+
+
+.LoginRegisterdiv {
+    background-color: #f7da39;
+    color: #215770;
+    transition: all .1s ease-in-out;
+
+}
